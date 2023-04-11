@@ -8,7 +8,7 @@ Let's take a look at an exmaple of how complex this problem can get.
 
 Consider if we want to create the value of 32 cents, in which we abide by US currency values {1, 5, 10, 25} cents. We are restricted to only using each coin only once.
 
-At every level, we must consider the question: "Do we include 25 cents or not?", in decreasing order of the coins available. This question opens two node paths of either yes or no? 
+At every level, we must consider the question: "Do we include 25 cents or not?", in decreasing order of the coins available. This question opens two node paths: yes or no? 
 
 ![Decision Tree](https://user-images.githubusercontent.com/94495024/231309197-4f5e1e2c-97ec-4084-ac6c-b2cf4e9c5a60.jpg)
 
