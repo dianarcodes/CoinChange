@@ -24,7 +24,7 @@ By reading the graph, it becomes clear here that the most important question to 
 No good. We can only use each coin once and there are still coins remaining.
 
 If 25 cents is not included in our solution (32 coins remaining), then the problem also cannot be solved.
-
+<br />
 32 - 10 = 22
  * 22 - 5 = 17
     * 17 - 1 = 16 X
@@ -33,7 +33,7 @@ If 25 cents is not included in our solution (32 coins remaining), then the probl
 Also, no good. There are even more coins remaining than before! 
 
 Therefore, this problem cannot be solved to create a value of 32. However, if we wanted to create a value of 31, we could!
-
+<br />
 31 - 25 = 6
  * 6 - 10 = -4 X
  * 6 - 5 = 1
