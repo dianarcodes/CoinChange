@@ -1,6 +1,7 @@
 ## CoinChange 
 
 ### Description 
+The Coin Change problem is a classic algorithmic problem in computer science and mathematics. It involves finding the minimum number of coins needed to make change for a given amount of money, using a given set of coin denominations. The goal is to find the most efficient way to make change, minimizing the total number of coins used. This asks an existence question of whether or not we can give a change amount using the coins we have. On the other hand, it's also an optimization problem so that among all combinational possibilities that meet the criteria, we must choose the one using the minimum amount of coins
 
 ### Decision Tree
 Let's take a look at an exmaple of how complex this problem can get. 
@@ -38,9 +39,11 @@ Therefore, this problem cannot be solved to create a value of 32. However, if we
  ~ 6 - 10 = -4 X <br />
  ~ 6 - 5 = 1 <br />
     -> 1 - 1 = 0 <br />
+   
+Having to chose each coin only once can be pretty frustrating! That's why my solution includes an UnlimitedCoinChange function where each coin can be used for an unlimited number of times. With that function, creating 32 could be done by including 25 cents and using 1 cent twice. The solution would be {25, 5, 1, 1} in order to create the amount of 32 coins!
 
 ### Areas for Improvement 
-
+One way to improve this project is by including a dyanmmic programming approach. As opposed to our greedy algorithm, this can be done either through memoization or tabulation. The problem could be broken down into smaller subproblems and their solutions stored in a table to avoid redundant calculations.
 
 
 
