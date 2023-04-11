@@ -16,10 +16,10 @@ As you can see, this gets really complicated _really fast_. There is a total of 
 ## Discussion
 By reading the graph, it becomes clear here that the most important question to figure out here is whether to include the 25 cents or not. If 25 cents is included in our solution (32 - 25 = 7 coins remaining), then the problem cannot be solved. 
 
-7 - 10 = -3 X
-7 - 5 = 2
- * 2 - 1 = 1 X
-7 - 1 = 6 X
+7 - 10 = -3 X <br />
+7 - 5 = 2 <br />
+ * 2 - 1 = 1 X <br />
+7 - 1 = 6 X <br />
 
 No good. We can only use each coin once and there are still coins remaining.
 
@@ -39,7 +39,7 @@ Therefore, this problem cannot be solved to create a value of 32. However, if we
  * 6 - 5 = 1
  * 1 - 1 = 0 O
 
-###Areas for Improvement 
+### Areas for Improvement 
 
 
 
