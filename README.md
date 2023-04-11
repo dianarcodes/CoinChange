@@ -37,7 +37,7 @@ Therefore, this problem cannot be solved to create a value of 32. However, if we
 31 - 25 = 6 <br />
  ~ 6 - 10 = -4 X <br />
  ~ 6 - 5 = 1 <br />
-   ~ 1 - 1 = 0 <br />
+    -> 1 - 1 = 0 <br />
 
 ### Areas for Improvement 
 
