@@ -25,19 +25,19 @@ No good. We can only use each coin once and there are still coins remaining.
 
 If 25 cents is not included in our solution (32 coins remaining), then the problem also cannot be solved.
 <br />
-32 - 10 = 22
- ~ 22 - 5 = 17
-    -> 17 - 1 = 16 X
+32 - 10 = 22 <br />
+ ~ 22 - 5 = 17 <br />
+    -> 17 - 1 = 16 X <br />
 . . . 
 
 Also, no good. There are even more coins remaining than before! 
 
 Therefore, this problem cannot be solved to create a value of 32. However, if we wanted to create a value of 31, we could!
 <br />
-31 - 25 = 6
- ~ 6 - 10 = -4 X
- ~ 6 - 5 = 1
-   ~ 1 - 1 = 0 
+31 - 25 = 6 <br />
+ ~ 6 - 10 = -4 X <br />
+ ~ 6 - 5 = 1 <br />
+   ~ 1 - 1 = 0 <br />
 
 ### Areas for Improvement 
 
