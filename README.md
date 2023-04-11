@@ -1,7 +1,7 @@
 # CoinChange
 The NP-complete Coin Change problem discussed in my Algorithms class
 
-##Description 
+## Description 
 
-##Decision Tree Example
+## Decision Tree Example
 
