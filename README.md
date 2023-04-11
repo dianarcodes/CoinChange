@@ -1,7 +1,7 @@
 ## CoinChange 
 
 ### Description 
-The Coin Change problem is a classic algorithmic problem in computer science and mathematics. It involves finding the minimum number of coins needed to make change for a given amount of money, using a given set of coin denominations. This asks an existence question of whether or not we can give a change amount using the coins we have. On the other hand, it's also an optimization problem so that among all combinational possibilities that meet the criteria, we must choose the one using the minimum amount of coins
+The Coin Change problem is a classic algorithmic problem in computer science and mathematics. It involves finding the minimum number of coins needed to make change for a given amount of money, using a given set of coin denominations. This asks an existence question of whether or not we can give a change amount using the coins we have. On the other hand, it's also an optimization problem so that among all combinational possibilities that meet the criteria, we must choose the one using the minimum amount of coins.
 
 ### Decision Tree
 Let's take a look at an exmaple of how complex this problem can get. 
