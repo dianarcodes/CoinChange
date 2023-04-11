@@ -32,7 +32,8 @@ If 25 cents is not included in our solution (32 coins remaining), then the probl
 
 Also, no good. There are even more coins remaining than before! 
 
-Therefore, this problem cannot be solved to create a value of 32. However, if we wanted to create a value of 31, we could! 
+Therefore, this problem cannot be solved to create a value of 32. However, if we wanted to create a value of 31, we could!
+
 31 - 25 = 6
  * 6 - 10 = -4 X
  * 6 - 5 = 1
